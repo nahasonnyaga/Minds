@@ -1,9 +1,11 @@
 [submodule "engine"]
-	path = engine
-	url = https://gitlab.com/minds/engine.git
+    path = engine
+    url = git@github.com:nahasonnyaga/engine.git
+
 [submodule "front"]
-	path = front
-	url = https://gitlab.com/minds/front.git
+    path = front
+    url = git@github.com:nahasonnyaga/front.git
+
 [submodule "sockets"]
-	path = sockets
-	url = https://github.com/minds/sockets.git 
+    path = sockets
+    url = git@github.com:nahasonnyaga/sockets.git
